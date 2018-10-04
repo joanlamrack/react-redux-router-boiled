@@ -1,4 +1,4 @@
-##React - Redux - thunk BOILERPLATE
+## React - Redux - thunk BOILERPLATE
 
 Using this is as easy as
  - download, fork, or clone
